@@ -12,22 +12,22 @@ Used PreparedStatement to prevent SQL Injection.
 
  Technologies Used
 
-Java
+1.Java
 
-JDBC
+2.JDBC
 
-Postgresql
+3.Postgresql
 
-Eclipse IDE
+4.Eclipse IDE
 
 ⚙Features
 
-Add new student details
+1.Add new student details
 
-View all students
+2.View all students
 
-Update student information
+3.Update student information
 
-Delete student records
+4.Delete student records
 
-Search student by ID
+5.Search student by ID
